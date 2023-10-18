@@ -5,7 +5,7 @@ Este proyecto se enfocó en desarrollar lo aprendido durante un par de semanas c
 
 
 Incluye la seccion: Interfaz de inicio que nos ofrece Google Clone.
-<a href="https://stalwart-muffin-4d07d1.netlify.app/" target="_blank">**Échale un ojo** </a>
+<a href="https://transcendent-pasca-8038d8.netlify.app/" target="_blank">**Échale un ojo** </a>
 
 ## Secciones
 
